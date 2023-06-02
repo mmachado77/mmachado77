@@ -9,18 +9,6 @@ O curso foi seguindo cada vez mais para a área artística e, eventualmente, aca
 Um tempo passou, coisas aconteceram, e hoje encontrei a área na qual quero me divertir e trabalhar para o resto da vida!<br><br>
 🔭 Atualmente, estou trabalhando desenvolvimento um Simulador de Ordenamento de Projetos para a disciplina de Sistemas Operacionais.
 Você pode acompanhar o desenvolvimento desse projeto e alguns outros já finalizados nos meus repositórios.<br><br>
-💬 Adoro conhecer novas pessoas e fazer novas amizades. Se você quiser me conhecer, ou saber mais sobre em mim, aqui vão meus contatos:
-
-<p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:matheusmachado77@gmail.com" /></a>
-
-  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mmachado7/" /></a>
-
-  <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=www.instagram.com/mmmachado7"/></a>
-</p>  
 
 ----
 
