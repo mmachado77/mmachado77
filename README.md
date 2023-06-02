@@ -34,4 +34,4 @@ Você pode acompanhar o desenvolvimento desse projeto e alguns outros já finali
 ---
 
 ## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmarcelojr&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmachado77&show_icons=true)
