@@ -1,14 +1,13 @@
 ## 💜 Olá, meu nome é <strong>Matheus Machado!</strong>
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
-No momento, estou no terceiro semestre de Análise e Desenvolvimento de Sistemas, estou praticando Java, html, css, Javascript e MySQL.<br>
+No momento, estou no quinto semestre de Análise e Desenvolvimento de Sistemas, estou praticando JavaScript, React, Python e Django.<br>
 No momento estou focado em melhorar minhas habilidades e continuar aprendendo coisas novas.<br>
 Eu faço um café muito gostoso e sou apaixonado por jogos.<br><br>
 Meu primeiro contato com programação foi quando cursei Design de Jogos Digitais. As disciplinas de algoritmo e Programação 1 abriram uma porta para um mundo maravilhoso, pelo qual sou apaixonado até hoje.
 O curso foi seguindo cada vez mais para a área artística e, eventualmente, acabei interrompendo os estudos.<br>
 Um tempo passou, coisas aconteceram, e hoje encontrei a área na qual quero me divertir e trabalhar para o resto da vida!<br><br>
-🔭 Atualmente, estou trabalhando desenvolvimento um Simulador de Ordenamento de Projetos para a disciplina de Sistemas Operacionais.
-Você pode acompanhar o desenvolvimento desse projeto e alguns outros já finalizados nos meus repositórios.<br><br>
+🔭 Atualmente, estou trabalhando no projeto da disciplina de DEV II. Estamos utilizando REACT, Django e trabalhando com Scrum: https://github.com/IFRS-Campus-Restinga/2024-1-TCC<br><br>
 
 ----
 
