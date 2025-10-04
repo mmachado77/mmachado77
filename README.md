@@ -1,14 +1,40 @@
-## 💜 Olá, meu nome é <strong>Matheus Machado!</strong>
+## 💜 Hello, I'm **Matheus Machado**
 
-Atualmente, estou no último semestre de Análise e Desenvolvimento de Sistemas, com previsão de formatura em 2024/2. Estou estagiando no setor de Desenvolvimento do Banrisul e trabalhando em meu TCC: um sistema de gerenciamento de TCC para o Instituto Federal do Rio Grande do Sul - Campus Restinga.
+I’m a Software Developer from Brazil, passionate about technology, design, and interactive storytelling.  
+I hold a degree in **Systems Analysis and Development** from the Federal Institute of Rio Grande do Sul (IFRS – Campus Restinga).
 
-Meu primeiro contato com programação foi quando cursei Design de Jogos Digitais, onde as disciplinas de algoritmo e Programação 1 me abriram as portas para esse mundo apaixonante. Desde então, venho me dedicando a aprimorar minhas habilidades.
+I’m also **co-founder and Lead Developer** at [Pandemonium Games](https://github.com/pandemoniumgames), where we’re developing our visual novel project **Fated Desires** 🤫.
 
-🔭 Estou focado em melhorar minhas habilidades e continuar aprendendo coisas novas. Também sou apaixonado por jogos e faço um café muito gostoso!
+---
 
-## 🚀 Minhas Skills
-- **Linguagens de Programação**: C++, Python
-- **Frameworks**: .NET, Django, React
-- **Web Development**: HTML, CSS, JavaScript
-- **Metodologias Ágeis**: Prática com Scrum
-- **Inglês**: Fluente
+### 🚀 What I Do
+I develop and maintain full-stack systems and automation tools, and I’m taking my first steps into **game development** — learning, experimenting, and building experiences that blend narrative and code.
+My background blends **software architecture** with **creative design**, allowing me to work across backend, frontend, and game systems with a focus on clean, maintainable code and thoughtful user experience.
+
+---
+
+### 🧠 Technical Skills
+- **Languages:** C#, Python, JavaScript  
+- **Frameworks:** .NET, Django, React, Godot (C#)  
+- **Web:** HTML, CSS, REST APIs  
+- **Other:** Git, Agile/Scrum  
+- **Languages:** Fluent in English and Portuguese  
+
+---
+
+### 🎯 Current Focus
+- Advancing my skills in system design and reusable architecture  
+- Developing narrative and gameplay systems for our visual novel projects  
+- Contributing to open-source and educational software  
+
+---
+
+### ☕ About Me
+I’m curious, detail-oriented, and always learning.  
+When I’m not coding, I’m usually writing, designing, or making a great cup of coffee.  
+
+---
+
+**Always open to collaboration.**  
+If you’re working on something creative or impactful, feel free to reach out —  
+let’s build something remarkable together.
